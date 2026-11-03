@@ -1,0 +1,25 @@
+## Visual Studio ##
+.vs/
+*.user
+*.suo
+## Compilació ##
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+## Paquets NuGet ##
+*.nupkg
+packages/
+*.snupkg
+## Fitxers temporals ##
+*.tmp
+*.log
+*.cache
+*.db
+*.pyc
+## Fitxers de sistema ##
+Thumbs.db
+*.DS_Store
+## Fitxers de configuració locals ##
+appsettings.Development.json
+secrets.json
